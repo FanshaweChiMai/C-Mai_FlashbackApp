@@ -1,0 +1,27 @@
+{
+  "name": "c-mai_flashbackapp",
+  "version": "1.0.0",
+  "description": "flashback app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanshaweChiMai/C-Mai_FlashbackApp.git"
+  },
+  "keywords": [
+    "grunt",
+    "video",
+    "app"
+  ],
+  "author": "Chi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FanshaweChiMai/C-Mai_FlashbackApp/issues"
+  },
+  "homepage": "https://github.com/FanshaweChiMai/C-Mai_FlashbackApp#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
