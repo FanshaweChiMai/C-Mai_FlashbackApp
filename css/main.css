@@ -1,0 +1,19 @@
+.hidden {
+  display: none; }
+
+.clearfix::after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both; }
+
+div, body, section {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 35px; }
+
+/*# sourceMappingURL=main.css.map */
